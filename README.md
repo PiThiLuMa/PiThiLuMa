@@ -1,6 +1,8 @@
 ### Oii! Somos o grupo PiThiLuMa
 
-## integrantes
+## 
+
+Integrantes : 
 
 - Pierre
 - Thiago
