@@ -1,4 +1,11 @@
-### Hi there 👋
+### Oii! Somos o grupo PiThiLuMa
+
+## integrantes
+
+- Pierre
+- Thiago
+- Luíza
+- Mariany
 
 <!--
 **PiThiLuMa/PiThiLuMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
