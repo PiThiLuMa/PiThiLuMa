@@ -1,6 +1,13 @@
 ### Oii! Somos o grupo PiThiLuMa
 
+<div style="display: inline_block">
+  
+ <img align="right" alt="Equipe" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/822954610825363517/892439561739845692/5ojous.gif">
+
+</div>
+
 ## 
+
 
 Integrantes : 
 
@@ -8,7 +15,11 @@ Integrantes :
 - Thiago
 - Luíza
 - Mariany
+ 
+<br>
+<br>
 
+O trabalho consiste na junção de quatro jovens para acender a chama do espírito em equipe, o foco do trabalho é explorar a criatividade e imaginação para a formação de contos , baseados na vida de cada integrante da equipe , e analisar o desenvolvimento e avanço de cada um em relação a imaginação e habilidade para a criação de um site , para isso cada equipe utilizará um template do bootstrap e deixarão a criatividade fluir , já que cada equipe terá o livre arbítrio para fazê-lo como desejar, onde o intuito é fazer um livro digital.
 ##
 <br>
 <div align="left">
@@ -20,7 +31,6 @@ Integrantes :
 <br>
  
 ![Snake animation](https://github.com/PiThiLuMa/PiThiLuMa/blob/output/github-contribution-grid-snake.svg)
-
   
 <!--
 **PiThiLuMa/PiThiLuMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
